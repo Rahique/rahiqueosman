@@ -166,6 +166,9 @@ hr {
     border-top: 5px solid;
   }
 }
+.home-heading {
+  font-size: 5vw;
+}
 .fb-ico {
   color: #3deaa4;
   transition: all 0.3s;
